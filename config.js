@@ -88,7 +88,7 @@ global.author = '𝑾𝒊𝒍𝒎𝒆𝒓'
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['50250101139', 'Gata Dios 💻', 1], 
+['50250101139', 'creador 💋', 1], 
 ['50258115623', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['19042018926', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝗼𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['14077384440', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
@@ -125,7 +125,7 @@ global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/50250101139' //Dudas? escríbeme...
 
 global.wm = '𝑴𝑨𝑲𝑬𝑩𝑶𝑻-𝑴𝑫 : 𝑾𝑰𝑳𝑴𝑬𝑹'
-global.igfg = '𝑴𝑨𝑲𝑬𝑩𝑶𝑻-𝑴𝑫
+global.igfg = '𝑴𝑨𝑲𝑬𝑩𝑶𝑻-𝑴𝑫'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
