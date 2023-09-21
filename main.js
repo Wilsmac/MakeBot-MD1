@@ -117,7 +117,7 @@ auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
 },
-browser: ['GataBotLite-MD','Edge','2.0.0'],
+browser: ['MakeBot-MD','Edge','2.0.0'],
 version,
 defaultQueryTimeoutMs: undefined,
 }
