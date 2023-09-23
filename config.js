@@ -108,7 +108,7 @@ global.ig = 'https://www.instagram.com/cmwilmer4'
 global.md = 'https://github.com/Wilsmac/MakeBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/GK9jQ7sY7XRGxhu6UoTOle' //INFORMACIÓN
 global.nn2 = 'https://chat.whatsapp.com/HLXJUIznsbHJ3LF6pTgmh6' //UPDATE 2
 global.nna2 = 'https://chat.whatsapp.com/JRFOdyjNqhwEJcDQoBCHzL' //Help
 global.nn = 'https://chat.whatsapp.com/Ii0hagX0idw4C7Gxwts54x' //Grupo 1
