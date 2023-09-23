@@ -233,7 +233,7 @@ conn.well = false
 if (!opts['test']) {
 if (global.db) setInterval(async () => {
 if (global.db.data) await global.db.write()
-if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', "GataJadiBot"], tmp.forEach(filename => cp.spawn('find', [filename, '-amin', '2', '-type', 'f', '-delete'])))}, 30 * 1000)}
+if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', "MakeJadiBot"], tmp.forEach(filename => cp.spawn('find', [filename, '-amin', '2', '-type', 'f', '-delete'])))}, 30 * 1000)}
 if (opts['server']) (await import('./server.js')).default(global.conn, PORT)
 
 async function connectionUpdate(update) {
@@ -407,7 +407,7 @@ unlinkSync(filePath)})
 
 function purgeSession() {
 let prekey = []
-let directorio = readdirSync("./GataBotSession")
+let directorio = readdirSync("./MakeBotSession")
 let filesFolderPreKeys = directorio.filter(file => {
 return file.startsWith('pre-key-') || file.startsWith('session-') || file.startsWith('sender-') || file.startsWith('app-')
 })
@@ -419,7 +419,7 @@ unlinkSync(`./GataBotSession/${files}`)
 
 function purgeSessionSB() {
 try {
-const listaDirectorios = readdirSync('./GataJadiBot/');
+const listaDirectorios = readdirSync('./MakeJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
 if (statSync(`./GataJadiBot/${directorio}`).isDirectory()) {
@@ -441,7 +441,7 @@ console.log(chalk.bold.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./GataBotSession/', './GataJadiBot/']
+const directories = ['./MakeBotSession/', './MakeJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
