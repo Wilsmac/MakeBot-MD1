@@ -407,29 +407,29 @@ unlinkSync(filePath)})
 
 function purgeSession() {
 let prekey = []
-let directorio = readdirSync("./MakeBotSession")
+let directorio = readdirSync("./GataBotSession")
 let filesFolderPreKeys = directorio.filter(file => {
 return file.startsWith('pre-key-') || file.startsWith('session-') || file.startsWith('sender-') || file.startsWith('app-')
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./MakeBotSession/${files}`)
+unlinkSync(`./GataBotSession/${files}`)
 })
 } 
 
 function purgeSessionSB() {
 try {
-const listaDirectorios = readdirSync('./MakeJadiBot/');
+const listaDirectorios = readdirSync('./GataJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
-if (statSync(`./MakeJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./MakeJadiBot/${directorio}`).filter(fileInDir => {
+if (statSync(`./GataJadiBot/${directorio}`).isDirectory()) {
+const DSBPreKeys = readdirSync(`./GataJadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-') || fileInDir.startsWith('app-') || fileInDir.startsWith('session-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
 DSBPreKeys.forEach(fileInDir => {
 if (fileInDir !== 'creds.json') {
-unlinkSync(`./MakeJadiBot/${directorio}/${fileInDir}`)
+unlinkSync(`./GataJadiBot/${directorio}/${fileInDir}`)
 }})
 }})
 if (SBprekey.length === 0) {
