@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://i.imgur.com/AwlL9kc.jpeg" alt="GataBotLite-MD" width="500"/>
+<img src="https://telegra.ph/file/f2aab2a6191afb9660910.jpg" alt="GataBotLite-MD" width="500"/>
 </p>
 <p align="center">
 <a href="https://github.com/GataNina-Li/GataBot-MD"><img title="GataBot-MD" src="https://img.shields.io/badge/🌸 ESTÁ ES UNA VERSIÓN SIMPLIFICADA DE GataBotMD 🌸 -red?colorA=%233CCED8&colorB=%233CCED8&style=for-the-badge"></a>
