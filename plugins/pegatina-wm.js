@@ -15,7 +15,7 @@ console.error(e)
 if (Buffer.isBuffer(e)) stiker = e
 } finally {
 if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: wm, body: `h`, mediaType: 2, sourceUrl: nn, thumbnail: imagen1}}}, { quoted: m })
-else throw '╰⊱❗️⊱ *𝐿𝑂 𝑈𝑆𝑂 𝑀𝐴𝐿 | 𝑈𝑆𝐸𝐷 𝐼𝑇 𝑊𝑅𝑂𝑁𝐺* ⊱❗️⊱╮\n\n𝐸𝑅𝑅𝑂𝑅 𝐴𝐿𝐺𝑂 𝑆𝐴𝐿𝐼𝑂́ 𝑀𝐴𝐿, 𝑉𝑈𝐸𝐿𝑉𝐴 𝐴 𝐼𝑁𝑇𝐸𝑁𝑇𝐴𝑅𝐿𝑂 𝐷𝐸 𝑁𝑈𝐸𝑉𝑂\n𝐸𝑅𝑅𝑂𝑅 𝑆𝑂𝑀𝐸𝑇𝐻𝐼𝑁𝐺 𝑊𝐸𝑁𝑇 𝑊𝑅𝑂𝑁𝐺 𝑇𝑂 𝑇𝑅𝑌 𝐴𝐺𝐴𝐼𝑁
+else throw '╰⊱❗️⊱ *𝐿𝑂 𝑈𝑆𝑂 𝑀𝐴𝐿 | 𝑈𝑆𝐸𝐷 𝐼𝑇 𝑊𝑅𝑂𝑁𝐺* ⊱❗️⊱╮\n\n𝐸𝑅𝑅𝑂𝑅 𝐴𝐿𝐺𝑂 𝑆𝐴𝐿𝐼𝑂́ 𝑀𝐴𝐿, 𝑉𝑈𝐸𝐿𝑉𝐴 𝐴 𝐼𝑁𝑇𝐸𝑁𝑇𝐴𝑅𝐿𝑂 𝐷𝐸 𝑁𝑈𝐸𝑉𝑂\n𝐸𝑅𝑅𝑂𝑅 𝑆𝑂𝑀𝐸𝑇𝐻𝐼𝑁𝐺 𝑊𝐸𝑁𝑇 𝑊𝑅𝑂𝑁𝐺 𝑇𝑂 𝑇𝑅𝑌 𝐴𝐺𝐴𝐼𝑁'
 }}
 handler.help = ['wm <packname>|<author>']
 handler.tags = ['sticker']
