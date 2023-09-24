@@ -12,8 +12,8 @@ let text
         text = args.slice(0).join(" ")
     } else if (m.quoted && m.quoted.text) {
         text = m.quoted.text
-    } else throw "╰⊱𖤍❥︎ *𝐿𝑂 𝑈𝑆𝑂́ 𝑀𝐴𝐿 | 𝑈𝑆𝐸𝐷 𝐼𝑇 𝑊𝑅𝑂𝑁𝐺* ⊱𖤍⊱╮\n\𝐴𝐺𝑅𝐸𝐺𝑈𝐸́ 𝑈𝑁 𝑇𝐸𝑋𝑇𝑂 𝑃𝐴𝑅𝑆 𝐶𝑅𝐸𝐴𝑅 𝐸𝐿 𝑆𝑇𝐼𝐶𝐾𝐸𝑅 "
-   if (!text) return m.reply('𝑌 𝐸𝐿 𝑇𝐸𝑋𝑇𝑂🤬?')
+    } else throw "╰⊱𖤍❥︎ *𝐿𝑂 𝑈𝑆𝑂́ 𝑀𝐴𝐿 | 𝑈𝑆𝐸𝐷 𝐼𝑇 𝑊𝑅𝑂𝑁𝐺* ⊱𖤍⊱╮\n\n𝐴𝐺𝑅𝐸𝐺𝑈𝐸́ 𝑈𝑁 𝑇𝐸𝑋𝑇𝑂 𝑃𝐴𝑅𝑆 𝐶𝑅𝐸𝐴𝑅 𝐸𝐿 𝑆𝑇𝐼𝐶𝐾𝐸𝑅 "
+   if (!text) return m.reply('𝑌 𝐸𝐿 𝑇𝐸𝑋𝑇𝑂?')
    if (text.length > 30) return m.reply('𝑀𝐴𝑋𝐼𝑀𝑂 30 𝑃𝐴𝐿𝐴𝐵𝑅𝐴𝑆☃︎')
     let pp = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/a2ae6cbfa40f6eeea0cf1.jpg')
 
