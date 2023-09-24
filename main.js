@@ -413,7 +413,7 @@ return file.startsWith('pre-key-') || file.startsWith('session-') || file.starts
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./GataBotSession/${files}`)
+unlinkSync(`./MakeBotSession/${files}`)
 })
 } 
 
@@ -422,14 +422,14 @@ try {
 const listaDirectorios = readdirSync('./MakeJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
-if (statSync(`./GataJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./GataJadiBot/${directorio}`).filter(fileInDir => {
+if (statSync(`./MakeJadiBot/${directorio}`).isDirectory()) {
+const DSBPreKeys = readdirSync(`./MakeJadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-') || fileInDir.startsWith('app-') || fileInDir.startsWith('session-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
 DSBPreKeys.forEach(fileInDir => {
 if (fileInDir !== 'creds.json') {
-unlinkSync(`./GataJadiBot/${directorio}/${fileInDir}`)
+unlinkSync(`./MakeJadiBot/${directorio}/${fileInDir}`)
 }})
 }})
 if (SBprekey.length === 0) {
