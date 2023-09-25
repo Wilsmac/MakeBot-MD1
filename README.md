@@ -137,12 +137,12 @@ Set-ExecutionPolicy RemoteSigned
 ```
 > Aparecerá un mensaje de advertencia preguntando si deseas cambiar la Política de ejecución. Confirma con "Y" y presiona Enter. Luego ya puede volver a ejecutar el comando `yarn`
 
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOTLITE`](https://github.com/GataNina-Li/GataBotLite-MD/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
-#### ✨ Español  [`Editar Idioma`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/espanol.js)
-#### ✨ Inglés (English) [`Edit Language`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/ingles.js)
-#### ✨ Portugués (Português) [`Idioma de Edição`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/portugues.js)
-#### ✨ Indonesio (Bahasa Indonesia) [`Mengedit Bahasa`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/indonesio.js) 
-#### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/arabe.js)
+### 💠 [`IDIOMAS DISPONIBLES PARA MakeBot-MD`](https://github.com/Wilsmac/MakeBot-MD1/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
+#### ✨ Español  [`Editar Idioma`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/espanol.js)
+#### ✨ Inglés (English) [`Edit Language`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/ingles.js)
+#### ✨ Portugués (Português) [`Idioma de Edição`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/portugues.js)
+#### ✨ Indonesio (Bahasa Indonesia) [`Mengedit Bahasa`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/indonesio.js) 
+#### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/arabe.js)
 ----
 > **Note** The translations are not perfect, it is only a reference, if you want to collaborate with the language or with another that is not on the list, contact me [`Contact me`](https://wa.me/50660400020?text=Hola%20❤️%20UNIFINED%20,%20deseo%20colaborar%20con%20las%20traducciones%20de%20MakeBot-MD.%20Hello%20UNIFINED%20,%20I%20want%20to%20collaborate%20with%20the%20translations%20of%20MakeBot-MD%20😺.)
 
