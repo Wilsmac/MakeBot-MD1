@@ -26,7 +26,7 @@
 > Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de MakeBot-MD. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestra comunidad ahora mismo!
 
 <a href="https://www.atom.bio/Wilsmac/">
-<img src="https://img.shields.io/badge/MakeBot-MD_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=dark">
+<img src="https://img.shields.io/badge/MakeBot-_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=dark">
 </a>
   
 #### DISPONIBLE EN:
