@@ -144,7 +144,7 @@ Set-ExecutionPolicy RemoteSigned
 #### ✨ Indonesio (Bahasa Indonesia) [`Mengedit Bahasa`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/indonesio.js) 
 #### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/Wilsmac/MakeBot-MD1/blob/master/lib/idiomas/arabe.js)
 ----
-> **Note** The translations are not perfect, it is only a reference, if you want to collaborate with the language or with another that is not on the list, contact me [`Contact me`](https://wa.me/50660400020?text=Hola%20❤️%20UNIFINED%20,%20deseo%20colaborar%20con%20las%20traducciones%20de%20MakeBot-MD.%20Hello%20UNIFINED%20,%20I%20want%20to%20collaborate%20with%20the%20translations%20of%20MakeBot-MD%20😺.)
+> **Note** The translations are not perfect, it is only a reference, if you want to collaborate with the language or with another that is not on the list, contact me [`Contact me`](https://wa.me/50250101139?text=Hola%20❤️%20UNIFINED%20,%20deseo%20colaborar%20con%20las%20traducciones%20de%20MakeBot-MD.%20Hello%20UNIFINED%20,%20I%20want%20to%20collaborate%20with%20the%20translations%20of%20MakeBot-MD%20😺.)
 
 ### 😸 CREADORA 
-[![Wilsmac](https://github.com/Wilsmac.png?size=150)](https://github.com/Wilsmac) 
+[![Wilsmac](https://github.com/Wilsmac.png?size=200)](https://github.com/Wilsmac) 
