@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/f2aab2a6191afb9660910.jpg" alt="MAKEBOT-MD 1" width="500"/>
 </p>
 <p align="center">
-<a href="https://github.com/Wilsmac/MakeBot-MD1"><img title="MakeBot-MD" src="https://img.shields.io/badge  🌺 ESTÁ ES UNA VERSIÓN SIMPLIFICADA DE GataBotLite-MD 🌺 -red?colorA=%233CCED8&colorB=%233CCED8&style=for-the-badge"></a>
+<a href="https://github.com/Wilsmac/MakeBot-MD1"><img title="MakeBot-MD" src="https://img.shields.io/badge/  🌺 ESTÁ ES UNA VERSIÓN SIMPLIFICADA DE GataBotLite-MD 🌺 -red?colorA=%233CCED8&colorB=%233CCED8&style=for-the-badge"></a>
 </p>
 
 <div align="center">
