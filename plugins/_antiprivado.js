@@ -19,4 +19,4 @@ user.warn = 0
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'banchat')
 }
 return !1
-}
+               }
