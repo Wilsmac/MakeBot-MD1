@@ -11,7 +11,7 @@ let user = global.db.data.users[m.sender]
 let bot = global.db.data.settings[this.user.jid] || {}
 if (bot.antiPrivate && !isOwner && !isROwner) { 
 user.warn += 1
-if (!(user.warn >= 6)) await this.sendMessage(m.chat, { text: `*${lenguajeGB['smsCreA']()}* *@${m.sender.split`@`[0]}*, ${lenguajeGB['smsprivado']()}\n${nn}`, mentions: [m.sender] }, { quoted: fkontak })
+if (!(user.warn >= 6)) await this.sendMessage(m.chat, { text: `*${lenguajeGB['smsCreA']()}* *@${m.sender.split`@`[0]}*, ${lenguajeGB['smsprivado']()}\n{*https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl*}`, mentions: [m.sender] }, { quoted: fkontak })
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'banchat')}
 //await m.reply(`*${lenguajeGB['smsCreA']()}* *@${m.sender.split`@`[0]}*, ${lenguajeGB['smsprivado']()}\n${nn}`,mentions: [m.sender] }, { quoted: fkontak })
 if (user.warn >= 6) {
