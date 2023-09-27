@@ -8,7 +8,7 @@
 <img src="https://telegra.ph/file/f2aab2a6191afb9660910.jpg" alt="MAKEBOT-MD 1" width="500"/>
 </p>
 
-<a href="#"><img title="MakeBot-MD" src="https://img.shields.io/badge/𝑺𝑰 𝑻𝑬 𝑨𝑮𝑹𝑨𝑫𝑨 𝑬𝑳 𝑹𝑬𝑷𝑶𝑺𝑰𝑻𝑶𝑹𝑰𝑶 𝑨𝑷𝑶𝒀𝑨𝑴𝑬 𝑪𝑶𝑵 𝑼𝑵𝑨 🌟 ¡𝑮𝑹𝑨𝑪𝑰𝑨𝑺! -red?colorA=%255ff0000&colorL=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="MakeBot-MD" src="https://img.shields.io/badge/𝑺𝑰 𝑻𝑬 𝑨𝑮𝑹𝑨𝑫𝑨 𝑬𝑳 𝑹𝑬𝑷𝑶𝑺𝑰𝑻𝑶𝑹𝑰𝑶 𝑨𝑷𝑶𝒀𝑨𝑴𝑬 𝑪𝑶𝑵 𝑼𝑵𝑨 🌟 ¡𝑮𝑹𝑨𝑪𝑰𝑨𝑺! -red?colorA=%255ff0000&colorB=%233CCED8&style=for-the-badge"></a> 
 
 
 <p align="center">
