@@ -74,7 +74,7 @@ npm start
 ### 🍁 TERMUX 24/7 🍁 
 > Comandos para realizar una ejecución 24/7
 - INICIAR
-> Use estos comandos dentro de la carpeta GataBotLite-MD
+> Use estos comandos dentro de la carpeta MakeBot-MD 
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
@@ -84,7 +84,7 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 pm2 stop all && pm2 unstartup
 ```
 - REANUDAR 
-> Reanudar los procesos, usar dentro de la carpeta GataBotLite-MD 
+> Reanudar los procesos, usar dentro de la carpeta MakeBot-MD 
 ```bash
 pm2 start index.js 
 ```
@@ -115,7 +115,7 @@ npm install -g ffmpeg imagemagick git yarn && npm i && node --no-warnings index.
 * Descargar e instala FFmpeg [`Aquí`](https://ffmpeg.org/download.html) (**No olvide agregar FFmpeg a la variable de entorno PATH**)
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 ```bash
-git clone https://github.com/GataNina-Li/MakeBot-MD1
+git clone https://github.com/Wilsmac/MakeBot-MD1
 cd MakeBot-MD1
 npm install -g yarn
 yarn
