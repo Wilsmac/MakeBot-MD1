@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac/MakeBot-MD1"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=3500&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑴𝑨𝑲𝑬𝑩𝑶𝑻-𝑴𝑫++;𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑶(𝑨)+𝑨𝑳+𝑹𝑬𝑷𝑶𝑺𝑰𝑻𝑶𝑹𝑰𝑶+𝑨𝑷𝑶𝒀𝑨+𝑪𝑶𝑵+𝑼𝑵𝑨+🌟+𝑮𝑹𝑨𝑪𝑰𝑨𝑺" height="80px"></a> 
+<a href="https://github.com/Wilsmac/MakeBot-MD1"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑴𝑨𝑲𝑬𝑩𝑶𝑻-𝑴𝑫++;𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑶(𝑨)+𝑨𝑳+𝑹𝑬𝑷𝑶𝑺𝑰𝑻𝑶𝑹𝑰𝑶+𝑨𝑷𝑶𝒀𝑨+𝑪𝑶𝑵+𝑼𝑵𝑨+🌟+𝑮𝑹𝑨𝑪𝑰𝑨𝑺" height="80px"></a> 
 </p>
  
 
