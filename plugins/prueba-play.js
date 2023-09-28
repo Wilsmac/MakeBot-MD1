@@ -227,7 +227,6 @@ for (let i = 0; i < result.length; i++) { url.push(result[i].url) }
 let random = url[0];
 let getAudio = await ytMp3(random);
 resolve(getAudio)}).catch(reject)})};
-
 async function ytPlayVid(query) {
 return new Promise((resolve, reject) => {
 yts(query).then(async(getData) => {
@@ -236,4 +235,4 @@ let url = [];
 for (let i = 0; i < result.length; i++) { url.push(result[i].url) }
 let random = url[0];
 let getVideo = await ytMp4(random);
-resolve(getVideo)}).catch(reject)})};
+resolve(getVideo)}).catch(reject)})}; 
