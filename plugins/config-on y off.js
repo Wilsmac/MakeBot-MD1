@@ -178,6 +178,15 @@ throw false
 }}
 chat.modoadmin = isEnable          
 break    
+
+case 'modohorny': case 'modohorny':
+if (m.isGroup) {
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
+throw false
+}}
+chat.modohorny = isEnable          
+break		
 		
 case 'antidelete': case 'antieliminar': case 'delete':
 if (m.isGroup) {
