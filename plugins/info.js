@@ -47,14 +47,14 @@ uptime = clockString(_uptime)
 totalreg = Object.keys(global.db.data.users).length
 rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length
 try{
-let estado = `*╭𝄗𝄗✦ --${lenguajeGB.smsEstado1()}-- ✦𝄗𝄗⬣*
- ⎸ *⍟ ${lenguajeGB.smsEstado2()}*
- ⎸ ❉ ➺ ${vs}
+let estado = `*╭𝄗𝄗𖣘 --${lenguajeGB.smsEstado1()}-- 𖣘𝄗𝄗⬣*
+ ⎸ *𖤍 ${lenguajeGB.smsEstado2()}*
+ ⎸ ꕥ ➺ ${vs}
  ⎸ ┈┈┈┈┈┈┈┈┈┈┈
- ⎸ ❉ *${lenguajeGB.smsEstado3()}* ➺ *_${Object.keys(global.db.data.users).length}_*
- ⎸ ❉ *${lenguajeGB.smsEstado4()}* ➺ *_${rtotalreg}/${totalreg}_*
- ⎸ ❉ *${lenguajeGB.smsEstado5()}* ➺ *_${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}_* 
- ⎸ ❉ *${lenguajeGB.smsEstado6()}* ➺ *_${Object.entries(global.db.data.users).filter(user => user[1].banned).length}_* 
+ ⎸ ꕥ *${lenguajeGB.smsEstado3()}* ➺ *_${Object.keys(global.db.data.users).length}_*
+ ⎸ ꕥ *${lenguajeGB.smsEstado4()}* ➺ *_${rtotalreg}/${totalreg}_*
+ ⎸ ꕥ *${lenguajeGB.smsEstado5()}* ➺ *_${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}_* 
+ ⎸ ꕥ *${lenguajeGB.smsEstado6()}* ➺ *_${Object.entries(global.db.data.users).filter(user => user[1].banned).length}_* 
  ⎸ ┈┈┈┈┈┈┈┈┈┈┈
  ⎸ ❉ *${lenguajeGB.smsEstado7()}* ➺ *_${uptime}_*
 *╰𝄗𝄗𝄗𝄗𝄗⬣*`.trim()
