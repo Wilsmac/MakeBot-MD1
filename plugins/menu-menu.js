@@ -17,7 +17,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let menu = `*۞ ${user.registered === true ? user.name : `❥︎ ${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'verificar nombre.edad✔︎' : 'verify name.age❤️‍🩹'}`} ۞*
 *˚₊·˚₊· ͟͟͞͞➳❥ @${m.sender.split("@")[0]}*
 *˚₊·˚₊· ͟͟͞͞➳❥* ${packname}${conn.user.jid == global.conn.user.jid ? '' : `\n*˚₊·˚₊· ͟͟͞͞➳❥* 𝙈𝘼𝙆𝙀𝘽𝙊𝙏 - 𝗦𝗨𝗕 𝗕𝗢𝗧 ⇢ *@${global.conn.user.jid.split`@`[0]}*`}
-*۞═━┈◈ ╰ ${vs} (wilmer) ╯ ◈┈━═۞*
+*𖣔═━┈◈ ╰ ${vs} ╯ ◈┈━═𖣔*
 *│* 
 *╰ ㊂ ▸▸ _${lenguajeGB.smsMenuTotal1()}_ ◂◂*
 *│* ┊
@@ -78,7 +78,7 @@ let menu = `*۞ ${user.registered === true ? user.name : `❥︎ ${usedPrefix}${
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'gif *video*' : 'togif *video*'}_
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'mp3 *video o audio*' : 'tovn *video or audio*'}_
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'tts *texto*' : 'totts *text*'}_
-*│* ╰∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ ∙ ∙ 
+*│* ╰∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ ∙ ∙ ∙
 *│*
 *╰ ㊂ ▸▸ _${lenguajeGB.smsMenuTotal6()}_ ◂◂*
 *│* ┊
@@ -86,7 +86,7 @@ let menu = `*۞ ${user.registered === true ? user.name : `❥︎ ${usedPrefix}${
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'admins' : 'dmins'}_
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'enlace' : 'linkgroup'}_
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'inspeccionar *enlace*' : 'inspect *link*'}_
-*│* ╰∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ ∙ ∙ 
+*│* ╰∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ ∙ ∙
 *│*
 *╰ ㊂ ▸▸ _${lenguajeGB.smsMenuTotal7()}_ ◂◂*
 *│* ┊
