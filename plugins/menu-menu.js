@@ -29,7 +29,7 @@ let menu = `*۞ ${user.registered === true ? user.name : `❥︎ ${usedPrefix}${
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'grupolista' : 'grouplist'}_ 
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'estado' : 'status'}_ 
 *│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'velocidad' : 'ping'}_ 
-*│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'infogata' : 'infobot'}_ 
+*│* ┊▸ ❥︎ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'infobot' : 'infobot'}_ 
 *│* ┊▸ ❥︎ _${lenguajeGB.lenguaje() == 'es' ? 'términos y condiciones' : 'terms'}_ 
 *│* ╰∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ ∙ ∙ 
 *│*
