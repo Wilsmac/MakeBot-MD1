@@ -54,7 +54,7 @@ say('GataBot\nLite\nMD', {
  gradient: ['red', 'magenta']
 })}
 
-say(`Project Author:\nGataNina-Li (@gata_dios)\n\nDevelopers:\nelrebelde21 (Mario)\nAzamiJs (Azami)\nDIEGO-OFC (Diego)`.trim(), {
+say(`Project Author:\nUnifined (Wilmer)\n\nDevelopers:\nhoware (jxs)\nindefinido (sin_nombre)\nGataNina-Li (@gata_dios)`.trim(), {
  font: 'console',
  align: 'center',
  colors: ['candy']
